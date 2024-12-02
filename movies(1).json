@@ -1,6 +1,7 @@
 {
   "movies": [
     {
+      "id": 0,
       "title": "Terminator 2",
       "plot": "When John, Sarah's 10-year-old son is attacked by T-1000, a new robot created by Skynet to destroy humanity, Terminator takes it upon himself to fight T-1000 to save John and the human race.",
       "director": "James Cameron",
@@ -12,6 +13,7 @@
       "releaseYear": "1991"
     },
     {
+      "id": 1,
       "title": "Batman",
       "plot": "Batman, a masked vigilante from Gotham City, fights against evil to keep its citizens safe. He must battle Jack Napier, who turns into the Joker and threatens to take over Gotham City.",
       "director": "Tim Burton",
@@ -19,6 +21,7 @@
       "releaseYear": "1989"
     },
     {
+      "id": 2,
       "title": "Whiplash",
       "plot": "Andrew enrols in a music conservatory to become a drummer. But he is mentored by Terence Fletcher, whose unconventional training methods push him beyond the boundaries of reason and sensibility.",
       "director": "Damien Chazelle",
@@ -26,6 +29,7 @@
       "releaseYear": "2014"
     },
     {
+      "id": 3,
       "title": "The Lighthouse",
       "plot": "In a remote island, Ephraim Winslow arrives as a lighthouse keeper and assists his elderly supervisor, Thomas Wake. As days pass, Winslow is haunted by strange and mysterious visions.",
       "director": "Robert Eggers",
@@ -33,6 +37,7 @@
       "releaseYear": "2019"
     },
     {
+      "id": 4,
       "title": "Hot Fuzz",
       "plot": "Police officer Nicholas Angel is known to be the best across London. His seniors, who are jealous of his achievements, transfer him to a remote village where he encounters various challenges.",
       "director": "Edgar Wright",
